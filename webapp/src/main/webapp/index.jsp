@@ -10,7 +10,7 @@
         <label for=" Second Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter SecondName" name="Name" id="Second" required>
     <br>
-    <label for="mobile"><b>Enter mobile NO. </b></label>
+    <label for="mobile"><b>Enter mobile Number </b></label>
   
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
